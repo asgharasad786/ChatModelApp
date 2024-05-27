@@ -1,5 +1,7 @@
 
 import streamlit as st
+from langchain.chat_models import ChatOpenAI
+from langchain_community import chat_models
 
 
 from langchain.chat_models import ChatOpenAI
