@@ -3,5 +3,5 @@ langchain
 openai
 streamlit-chat
 langchain_community
-langchain_chat_models
+langchain.chat_models
 python-dotenv
